@@ -1,0 +1,12 @@
+out/
+build/
+.tmp/
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+
+# scan output (machine-local inventory, never commit)
+*.json
+_reparse_*.json
+_scan_*.json
